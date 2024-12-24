@@ -69,9 +69,7 @@ const STATUS_PNG_ERROR                 = Int32(38)
 const STATUS_FREETYPE_ERROR            = Int32(39)
 const STATUS_WIN32_GDI_ERROR           = Int32(40)
 const STATUS_TAG_ERROR                 = Int32(41)
-const STATUS_DWRITE_ERROR              = Int32(42)
-const STATUS_SVG_FONT_ERROR            = Int32(43)
-const STATUS_LAST_STATUS               = Int32(44)
+const STATUS_LAST_STATUS               = Int32(42)
 
 const surface_t = Int32
 const CAIRO_SURFACE_TYPE_IMAGE            = Int32(0)
